@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartBandTest</string>
+    <string name="ScanButtonText">Scan</string>
+</resources>
